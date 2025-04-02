@@ -58,6 +58,7 @@ const products = [
     status: "Almost Sold Out",
     categories: ["Men's Fashion", "Women's Fashion"],
   },
+  
 
 ];
 

@@ -1,12 +1,45 @@
 # React + Vite
+# StyleWithAi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A frontend web application built using React.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Running the Application](#running-the-application)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## Features
+- AI-powered styling recommendations
+- Interactive UI built with React
+- Responsive design
+- Deployed on vercel platform
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+- **Frontend**: React, Tailwind CSS
+- **Deployment**: Vercel
+
+## Installation
+### Prerequisites
+Ensure you have the following installed:
+- Node.js (v16+ recommended)
+- npm or yarn
+
+### Download the files
+```sh
+cd StyleWithAi
+```
+
+### Install Dependencies
+```sh
+npm install
+```
+
+## Running the Application
+```sh
+npm run dev
+```
+The frontend will be available at `http://localhost:5173/`.
+
+Website Hosted : https://style-with-ai.vercel.app/
